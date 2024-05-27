@@ -160,4 +160,33 @@
 
 
 // 2.10-masala
-let n=+prompt("")
+// let n=+prompt("n soniga qiymat kiriting");
+// // s=1+1/2+1/3+...+1/n;
+// s=0;
+
+// for(i=1; i<=n; i++){
+//     s=sum+1/i;
+// }
+// console.log(s);
+
+
+
+
+
+// 2.11-masala
+// let n=+prompt("n soniga qiymat kiriting");
+// s=1;
+// for(i=1; i<=n; i++){
+//     s=s+(n+i)**2
+// }
+// console.log(s);
+
+
+// 2.12-masala
+// let n=+prompt("n soniga qiymat kiriting");
+// let sum=1;
+// for(let i=0.1; i<=n; i+=0.1){
+//     sum=sum*(sum+i);
+// }
+
+console.log(sum);
