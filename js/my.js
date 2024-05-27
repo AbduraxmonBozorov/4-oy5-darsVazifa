@@ -185,8 +185,10 @@
 // 2.12-masala
 // let n=+prompt("n soniga qiymat kiriting");
 // let sum=1;
-// for(let i=0.1; i<=n; i+=0.1){
-//     sum=sum*(sum+i);
+// for(let i=1.1; i<=n; i+=0.1){
+//     sum=sum*i;
+//     // 1.1
+//     // 1.1*1.2
+//     // 1.1*1.2*1.3
 // }
-
-console.log(sum);
+// console.log(sum);
